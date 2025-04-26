@@ -19,7 +19,7 @@ from elevenlabs import ElevenLabs
 
 # Initialize ElevenLabs client
 client = ElevenLabs(
-    api_key = ("sk_0019d536f5ca0e062e5af55ca077669264bde3e2c9393acb")
+    api_key = ("")
 )
 
 def text_to_speech_with_elevenlabs_old(input_text, output_filepath):
